@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: payment-gateway
+  data:
+    mongodb:
+      authentication-database: admin
+      database: payment-gateway
+      port: 27017
+      host: mongodb.cedesistemas.local
+
+server:
+  port: ${PORT:9800}
+  servlet:
+    context-path: /api/v1/
+
+springdoc:
+  api-docs:
+    groups:
+      enabled: true
+  swagger-ui:
+    path: /swagger-ui.html
+    display-request-duration: true
+    groups-order: DESC

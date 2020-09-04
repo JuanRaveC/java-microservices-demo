@@ -1,0 +1,83 @@
+[
+  {
+    "number": "4111111111111111",
+    "cvc": 587,
+    "expMonth": 6,
+    "expYear": 2022,
+    "status": "VALID",
+    "limit": 100000,
+    "credit": 100000
+  },
+  {
+    "number": "4012888888881881",
+    "cvc": 794,
+    "expMonth": 3,
+    "expYear": 2021,
+    "status": "INVALID",
+    "limit": 100000,
+    "credit": 100000
+  },
+  {
+    "number": "4263982640269299",
+    "cvc": 488,
+    "expMonth": 12,
+    "expYear": 2020,
+    "status": "VALID",
+    "limit": 50000,
+    "credit": 50000
+  },
+  {
+    "number": "4917484589897107",
+    "cvc": 196,
+    "expMonth": 8,
+    "expYear": 2021,
+    "status": "INVALID",
+    "limit": 20000,
+    "credit": 20000
+  },
+  {
+    "number": "5555555555554444",
+    "cvc": 518,
+    "expMonth": 1,
+    "expYear": 2022,
+    "status": "VALID",
+    "limit": 20000,
+    "credit": 20000
+  },
+  {
+    "number": "5105105105105100",
+    "cvc": 634,
+    "expMonth": 11,
+    "expYear": 2020,
+    "status": "INVALID",
+    "limit": 10000,
+    "credit": 10000
+  },
+  {
+    "number": "5425233430109903",
+    "cvc": 595,
+    "expMonth": 4,
+    "expYear": 2024,
+    "status": "VALID",
+    "limit": 25000,
+    "credit": 25000
+  },
+  {
+    "number": "2222420000001113",
+    "cvc": 856,
+    "expMonth": 9,
+    "expYear": 2020,
+    "status": "VALID",
+    "limit": 25000,
+    "credit": 25000
+  },
+  {
+    "number": "2223000048410010",
+    "cvc": 398,
+    "expMonth": 10,
+    "expYear": 2023,
+    "status": "INVALID",
+    "limit": 25000,
+    "credit": 25000
+  }
+]
